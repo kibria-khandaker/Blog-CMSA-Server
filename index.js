@@ -45,7 +45,7 @@ const run = async () => {
 run().catch((err) => console.log(err));
 
 app.get("/", (req, res) => {
-    res.send("Welcome to my Blog World!");
+    res.send("Welcome to my Blog CMSA Server API World!");
 });
 
 app.listen(port, () => {
