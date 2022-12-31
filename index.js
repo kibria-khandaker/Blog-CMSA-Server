@@ -52,4 +52,3 @@ app.listen(port, () => {
     console.log(`Blogs app listening on port ${port}`);
 });
 
-//------------
